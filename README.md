@@ -1,4 +1,4 @@
-# ThinkPHP 8.0 SQLite 缓存驱动
+# ThinkPHP 8.0 SQLite 缓存驱动 纯 AI   生成
 
 这是一个为 ThinkPHP 8.0 开发的轻量级 SQLite 缓存驱动。它非常适合在没有 Redis 或 Memcached 的虚拟主机、小型项目或本地开发环境中使用。
 
